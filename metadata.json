@@ -1,0 +1,6 @@
+{
+  "name": "KDS Sofa Care",
+  "description": "A premium landing page for KDS Sofa Care, a professional sofa cleaning service at your doorstep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
